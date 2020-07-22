@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": true,
+    "python.pythonPath": ".venv\\Scripts\\python.exe"
+}
